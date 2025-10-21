@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "App de Estudo Bíblico - Desenvolvido por Edgar Paulo Ndombe",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "biblestudy-mvp.preview.emergentagent",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "biblestudy-mvp.preview.emergentagent",
+  "start_url": "/",
+  "theme_color": "#7e22ce"
+}
